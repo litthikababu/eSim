@@ -393,7 +393,7 @@ if [ $option == "--install" ];then
     installDependency
     installKicad
     copyKicadLibrary
-    installNghdl
+#    installNghdl
     installSky130Pdk
     createDesktopStartScript
 
